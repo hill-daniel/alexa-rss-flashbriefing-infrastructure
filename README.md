@@ -1,8 +1,8 @@
 # AWS infrastructure 
 
 Uses [Terraform](https://www.terraform.io/) to create AWS infrastructure for an Alexa Flash Briefing Skill.
-Code for the Lambda function can be found at [GitHub](https://www.github.com/hill-daniel//alexa-rss-flashbriefing) 
-Take a look at the blog post (sorry german only): [RSS Feed mit Alexa Flash Briefing ausliefern](https://blog.codecentric.de/2018/11/rss-feed-mit-alexa-flash-briefing-ausliefern).
+Code for the Lambda function can be found at [GitHub](https://www.github.com/hill-daniel//alexa-rss-flashbriefing).
+Take a look at the blog post (sorry german only): [RSS Feed mit Alexa Flash Briefing ausliefern](https://blog.codecentric.de/2018/11/rss-feed-mit-alexa-flash-briefing-skill-ausliefern/).
 
 Will create the following: 
 * IAM role and policies for the execution of the lambda function and the API Gateway
